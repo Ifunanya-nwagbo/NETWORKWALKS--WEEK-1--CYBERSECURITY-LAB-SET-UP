@@ -64,7 +64,14 @@ Below was the  configuration:
 8.8.8.8  - DNS
 <img width="3024" height="2449" alt="Image" src="https://github.com/user-attachments/assets/f469b6d6-77f9-4291-8fb2-a6a6d6f62980" />
 
+# 💻RESULT
 
+| ✅ Test | 🧾 Command | 🎯 Anticipated Result |
+| :--- | :--- | :--- |
+| 🌐 To confirm IP address | `ip a` | Confirmed : IP successfully changed |
+| 🚪 Gateway Test | `ping 10.0.0.1` | Successful |
+| 🌏 Internet connectivity | `ping 8.8.8.8` | Working successfully | 
+| 🔌 Testing DNS resolution | `nslookup networkwalks.com` | Domain works |
 
 
 

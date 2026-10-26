@@ -53,8 +53,8 @@ Configuration: IPv4 Prefix: 10.0.0.0/24 Network Name: NatNetwork IPv6: Disabled 
 
 ## Step Four : Import and install Kali Linux VM
 The Kali Linux virtual machine was imported into VirtualBox after being downloaded from the official Kali Linux website.
-
-Additionally, a shared folder was set up to move necessary files between the Kali virtual machine and the host operating system.
+          Additionally, a shared folder was set up to move necessary files between the Kali virtual machine and the host operating system.
+<img width="3024" height="1834" alt="Image" src="https://github.com/user-attachments/assets/34a68ab6-0993-4da6-a61d-ed95759484eb" />
 
 
 

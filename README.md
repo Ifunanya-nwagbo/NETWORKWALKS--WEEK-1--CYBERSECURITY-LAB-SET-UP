@@ -77,8 +77,10 @@ Below was the  configuration:
 Seizure of Internet connectivity after static Network Configuration 
 My Internet connectivity stopped working after manually adjusting IPv4 settings.
 I used this code to correct it 👇🏼
+
 ```sudo nmcli connection modify "Wired connection 1" ipv4.method manual ipv4.addresses 10.0.0.2/24 ipv4.gateway 10.0.0.1 ipv4.dns "10.0.0.1 8.8.8.8"```
-After the network connection was restarted or rebooted, connectivity was examined once more.
+
+After the network connection was restarted or rebooted, connectivity was examined once more and it then worked
 
 
 

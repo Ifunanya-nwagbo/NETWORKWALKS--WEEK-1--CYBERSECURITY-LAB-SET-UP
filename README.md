@@ -22,6 +22,23 @@ Experimentation with security tools
 Kali Linux 2026 was installed and will be used for this project. However, you can add more virtual environments to your virtual box, but for this project, we will be focusing on Kali Linux 
 <img width="3024" height="1660" alt="Image" src="https://github.com/user-attachments/assets/0ffb9ce8-6157-4218-bd40-7af88b1f9129" />
 
+### ⚙️ Lab Configuration
+
+| 🧩 Component | ⚙️ Configuration |
+| :--- | :--- |
+| 💻 Host OS | Windows 10 |
+| 💾  RAM | 8 GB |
+| 🖥️ Processor | MacBook  |
+| 🧰 Hypervisor | VirtualBox 7.2 |
+| 🔒  OS | Kali Linux 2026.2 |
+| 🌐  Network | NAT Network |
+| 🛜 Network Addr | 10.0.0.0/24 |
+| 🐉 Kali Linux IP Address | 10.0.0.2/24 |
+| 🚪 Main Gateway | 10.0.0.1 |
+| 🔌 DNS Server | 8.8.8.8 |
+| 🌏 Future VM span | 10.0.0.3–10.0.0.99 |
+
+
 
 
 

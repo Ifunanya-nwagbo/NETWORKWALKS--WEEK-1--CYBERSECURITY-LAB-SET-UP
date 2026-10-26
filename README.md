@@ -62,7 +62,7 @@ Below was the  configuration:
 10.0.0.2 - IP address
 10.0.0.1 - The gateway.
 8.8.8.8  - DNS
-<img width="3024" height="1834" alt="Image" src="https://github.com/user-attachments/assets/34a68ab6-0993-4da6-a61d-ed95759484eb" />
+<img width="3024" height="2808" alt="Image" src="https://github.com/user-attachments/assets/41618def-81ab-40ae-b03f-55052a9c8e7e" />
 
 
 

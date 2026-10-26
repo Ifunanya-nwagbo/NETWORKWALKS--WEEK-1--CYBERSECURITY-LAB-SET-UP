@@ -6,11 +6,10 @@ The lab's goal is to establish a safe and repeatable environment for the use of 
 
 In order to accommodate future additions of machines and their use as targets for authorized security testing, the lab is set up on a private virtual network.
 
-➡️PURPOSE OF THE LAB
+## ➡️PURPOSE OF THE LAB
 The lab offers authorized security testing and cybersecurity education in a segregated and controlled setting.
 
 It can be applied to tasks like:
-
 Reconnaissance of networks
 Scanning ports
 Vulnerability evaluation
@@ -18,6 +17,10 @@ Analysis of packets
 Testing for web security
 Practices of exploitation
 Experimentation with security tools
+
+## 🧰 LAB ARCHITECTURE 
+Kali Linux 2026 was installed and will be used for this project. However, you can add more virtual environments to your virtual box, but for this project, we will be focusing on Kali Linux 
+<img width="3024" height="1660" alt="Image" src="https://github.com/user-attachments/assets/0ffb9ce8-6157-4218-bd40-7af88b1f9129" />
 
 
 

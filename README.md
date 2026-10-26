@@ -82,6 +82,47 @@ I used this code to correct it 👇🏼
 
 After the network connection was restarted or rebooted, connectivity was examined once more and it then worked
 
+## 📝 WHAT I HAVE LEARNED SO FAR: 
+## 1) NAT NETWORK:
+The functions of a NAT network and a standard NAT configuration are distinct.
+
+While providing network address translation for external connectivity, a NAT network enables communication between several virtual machines (VMs) connected to the same virtual network.
+
+Because of this, it can be used to construct a cybersecurity lab with multiple machines.
+
+## 2) NETWORKING OF VIRTUAL MACHINES
+I gained knowledge about how VirtualBox virtual network adapters link virtual machines to various networks and how network configuration influences machine-to-machine communication.
+
+## 3) IP CONFIGURATION 
+In Kali Linux, I discovered how to set up and validate IPv4 addressing, subnet masks, gateways, and DNS configurations.
+
+## 4) RECORDING AND DOCUMENTATION 
+I discovered that a crucial component of a professional cybersecurity project is recording commands, configuration, screenshots, issues, and fixes.
+
+
+## TOOLS AND RESOURCES USED
+✅ 7-Zip
+✅ Virtual Box
+✅ Kali Linux
+
+## AUTHOR 👤
+Ifunanya Nwagbo
+Cybersecurity intern at NetworkWalks
+
+LinkedIn: https://www.linkedin.com/in/ifunanya-nwagbo-mit🧧
+
+## 📌 PROJECT INFORMATION 
+
+| Category | Details |
+| :--- | :--- |
+| **Program Name** | Cybersecurity Training At Networkwalks |
+| **Timeline** | Week 01 |
+| **Project** | Cybersecurity & Pentesting Lab Setup |
+| **Repository** | GitHub |
+
+
+
+
 
 
 

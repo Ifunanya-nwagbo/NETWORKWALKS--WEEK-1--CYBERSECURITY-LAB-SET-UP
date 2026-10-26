@@ -38,6 +38,21 @@ Kali Linux 2026 was installed and will be used for this project. However, you ca
 | 🔌 DNS Server | 8.8.8.8 |
 | 🌏 Future VM span | 10.0.0.3–10.0.0.99 |
 
+## ➡️LAB SETUP STEPS
+## Step one : Install 7-Zip
+The Kali Linux virtual-machine package, which can be distributed as a.7z archive, was extracted using 7-Zip.
+Instrument used: 7-Zip
+
+## Step two : Download and Install Virtual Box
+Hypervisor installed was Virtual Box
+
+## Step Three : Configure the NAT Network
+In VirtualBox, a specific NAT network was established.
+Configuration: IPv4 Prefix: 10.0.0.0/24 Network Name: NatNetwork IPv6: Disabled DHCP: Enabled
+
+## Step Four : 
+
+
 
 
 

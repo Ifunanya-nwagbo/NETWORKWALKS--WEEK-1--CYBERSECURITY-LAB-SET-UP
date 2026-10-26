@@ -60,10 +60,9 @@ The Kali Linux virtual machine was imported into VirtualBox after being download
 A consistent IPv4 address was set up and the Kali Linux network configuration was examined.
 Below was the  configuration:
 10.0.0.2 - IP address
-255.255.255.0 - The subnet mask.
 10.0.0.1 - The gateway.
 8.8.8.8  - DNS
-
+<img width="3024" height="1834" alt="Image" src="https://github.com/user-attachments/assets/34a68ab6-0993-4da6-a61d-ed95759484eb" />
 
 
 

@@ -6,7 +6,7 @@ The lab's goal is to establish a safe and repeatable environment for the use of 
 
 In order to accommodate future additions of machines and their use as targets for authorized security testing, the lab is set up on a private virtual network.
 
-PURPOSE OF THE LAB
+➡️PURPOSE OF THE LAB
 The lab offers authorized security testing and cybersecurity education in a segregated and controlled setting.
 
 It can be applied to tasks like:

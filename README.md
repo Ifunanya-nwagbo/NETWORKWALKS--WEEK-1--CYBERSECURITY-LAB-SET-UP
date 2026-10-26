@@ -49,8 +49,13 @@ Hypervisor installed was Virtual Box
 ## Step Three : Configure the NAT Network
 In VirtualBox, a specific NAT network was established.
 Configuration: IPv4 Prefix: 10.0.0.0/24 Network Name: NatNetwork IPv6: Disabled DHCP: Enabled
+<img width="1080" height="673" alt="Image" src="https://github.com/user-attachments/assets/89c74aa8-210c-4a3c-b584-3b3f0c8986e6" />
 
-## Step Four : 
+## Step Four : Import and install Kali Linux VM
+The Kali Linux virtual machine was imported into VirtualBox after being downloaded from the official Kali Linux website.
+
+Additionally, a shared folder was set up to move necessary files between the Kali virtual machine and the host operating system.
+
 
 
 
